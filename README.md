@@ -8,6 +8,12 @@
   https://github.com/nwojke/deep_sort
   
   https://github.com/qqwweee/keras-yolo3
+  
+  如果你想训练自己的数据，参考如下：
+  
+  https://blog.csdn.net/qq_27871973/article/details/85009026
+  
+  https://github.com/Eatzhy/tiny-yolov3
 
 # 运行项目
 
